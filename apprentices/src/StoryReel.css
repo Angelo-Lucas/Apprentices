@@ -1,0 +1,14 @@
+.storyReel_upper{
+    justify-content: space-between;
+}
+
+.storyReel{
+    display: flex;
+}
+
+.texto > h1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 35px;
+    color: #e4d500;
+}
